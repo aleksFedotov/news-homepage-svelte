@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/aleksFedotov/news-homepage-svelte)
-- Live Site URL: [Add live site URL here](https://aleksfedotov.github.io/news-homepage-svelte/)
+
 
 ## My process
 
